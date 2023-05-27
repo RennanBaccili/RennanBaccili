@@ -2,4 +2,4 @@
 - 👀 Sou desenvolvedor,e estou na busca da minha primeira oportuninade na área de Dev,
 - 🌱 Estudando principalmente a linguagem java,
 - 💞️ Estou na busca de melhorar o meu conhecimento ao máximo e é claro melhorar como profissional na área, aceito críticas construtivas com o maior carinho do mundo,
-- 📫 Se precisar entrar em contato só entrar me procurar pelo https://www.linkedin.com/in/rennan-veloso-82763126b/
+- 📫 Se precisar entrar em contato só entrar me procurar pelo [https://www.linkedin.com/in/rennan-veloso-82763126b/](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
