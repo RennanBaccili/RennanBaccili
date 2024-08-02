@@ -19,4 +19,4 @@
   <a href="https://www.linkedin.com/in/rennan-bacili-82763126b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <h2>For me</h2>
-<p>Atualmente sou desenvolvedor Junior, trabalho com Angular e .Net, trabalho numa empresa que utiliza BitBucket para versionamento, então tenho ficado meio afastado do git, fora isso estou trabalhando em um projeto ShopChate cursando Faculdade no momento, meu projeto pessoal atual é <strong>Next e Nest</strong>, minha meta atual é me desenvolver para me tornar um deve pleno.
+<p>Atualmente sou desenvolvedor Junior, trabalho com Angular e .Net, trabalho numa empresa que utiliza BitBucket para versionamento, então tenho ficado meio afastado do git, fora isso estou trabalhando em um projeto ShopChat e cursando Faculdade no momento, meu projeto pessoal atual é <strong>Next e Nest</strong>, minha meta atual é me desenvolver para me tornar um deve pleno.
