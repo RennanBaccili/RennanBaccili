@@ -1,4 +1,4 @@
-## Oi , eu sou Rennan, estou no caminho de me tornar um profissional da Area de Programação.
+## Oi , eu sou Rennan, atualmente desenvolvedor júnior na empresa RTE
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RennanBaccili&show_icons=true&theme=dracula)
 <img align="right" alt="Rennan-JAVA"  height="300" width="300" src="https://github.com/RennanBaccili/accets/blob/main/new_gif/ezgif2.gif">
@@ -19,5 +19,4 @@
   <a href="https://www.linkedin.com/in/rennan-bacili-82763126b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <h2>For me</h2>
-<p>Sou estudante de analisé e desenvolvimento de sistemas, desejo me tornar programador full Stack, minha meta é me tornar o melhor programador possível, as linguagens que eu estudo/programo são <strong>JAVA e JavaScript</strong>,  focando na web, por enquanto, minha meta atual é me tornar um <strong>Desenvolvedor Junior.</strong></p>
-<p>Atualmente faço a faculdade, cursos de programação da udemy e neste momento estou focado no bootcamp da DIO.</p>
+<p>Atualmente sou desenvolvedor Junior, trabalho com Angular e .Net, trabalho numa empresa que utiliza BitBucket para versionamento, então tenho ficado meio afastado do git, fora isso estou trabalhando em um projeto ShopChate cursando Faculdade no momento, meu projeto pessoal atual é <strong>Next e Nest</strong>, minha meta atual é me desenvolver para me tornar um deve pleno.
