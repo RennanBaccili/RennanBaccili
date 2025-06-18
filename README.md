@@ -1,4 +1,4 @@
-## Oi , eu sou Rennan, atualmente desenvolvedor júnior na empresa RTE
+## Hello, i am Rennan, i am developer in RTE
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RennanBaccili&show_icons=true&theme=dracula)
 <img align="right" alt="Rennan-JAVA"  height="300" width="300" src="https://github.com/RennanBaccili/accets/blob/main/new_gif/ezgif2.gif">
@@ -19,4 +19,4 @@
   <a href="https://www.linkedin.com/in/rennan-bacili-82763126b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <h2>For me</h2>
-<p>Atualmente trabalho como desenvolvedor, adoro utilizas as tecnologias  Angular e .Net, trabalho em uma empresa que utiliza BitBucket para versionamento, então tenho ficado meio afastado do git, fora isso estou trabalhando em um projeto ShopChat e cursando Faculdade no momento, meu projeto pessoal atual é <strong>Next e Nest</strong>, gosto de utilizar python para trabalhar com IA e powerBI quando necessário
+I work as a developer and I love what I do. I've been developing for 3 years now, and I hope to do it for the rest of my life.
