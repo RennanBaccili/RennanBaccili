@@ -1,4 +1,4 @@
-## Hello, i am Rennan, i am developer in RTE
+## Hello, i am Rennan, i am developer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RennanBaccili&show_icons=true&theme=dracula)
 <img align="right" alt="Rennan-JAVA"  height="300" width="300" src="https://github.com/RennanBaccili/accets/blob/main/new_gif/ezgif2.gif">
