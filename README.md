@@ -1,8 +1,8 @@
 ## Rennan Bacili
 
-Desenvolvedor full stack. Backend em **.NET / C#**, frontend em **Angular** e **TypeScript**, com **PostgreSQL**, **Docker** e **AWS** em produção.
+Full stack developer. Backend in **.NET / C#**, frontend in **Angular** and **TypeScript**, with **PostgreSQL**, **Docker** and **AWS** in production.
 
-Boa parte do que construo hoje são plataformas entregues sob contrato, e por isso vive em repositórios privados. Os projetos públicos aqui são majoritariamente de formação.
+Most of what I build today are platforms delivered under commercial contract, so they live in private repositories. The public projects here are mostly from my studies.
 
 ### Stack
 
@@ -17,15 +17,15 @@ Boa parte do que construo hoje são plataformas entregues sob contrato, e por is
   <img align="center" alt="aws" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
 
-### Formação e certificações
+### Education and certifications
 
-- Engenharia de Computação
-- Pós-graduação em Data Science
-- Análise e Desenvolvimento de Sistemas
+- Computer Engineering
+- Postgraduate degree in Data Science
+- Systems Analysis and Development
 - AWS Cloud Practitioner
 - AWS Solutions Architect Associate
 
-### Contato
+### Contact
 
 <div>
   <a href="mailto:rennanbaccili@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
