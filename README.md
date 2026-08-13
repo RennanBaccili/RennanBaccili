@@ -4,6 +4,8 @@ Full stack developer. Backend in **.NET / C#**, frontend in **Angular** and **Ty
 
 Most of what I build today are platforms delivered under commercial contract, so they live in private repositories. The public projects here are mostly from my studies.
 
+**Portfolio → [baccilitech.com](https://baccilitech.com)**
+
 ### Stack
 
 <div>
